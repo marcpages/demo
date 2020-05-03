@@ -1,9 +1,9 @@
 {
   "serveis": [
-    { "id": 1, "nom": "Post 1", "id_tipus": 1  },
+    { "id": 1, "nom": "Post 1", "id_tipus": 1  }
   ],
   "serveis_tipus": [
-    { "id": 1, "nom": "Tipus servei 1" },
+    { "id": 1, "nom": "Tipus servei 1" }
   ],
   "profile": {
     "name": "typicode"
